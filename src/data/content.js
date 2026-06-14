@@ -113,7 +113,7 @@ export const experience = [
   {
     when: "May 2024 — Jul 2024",
     role: "Software Developer Intern",
-    org: "AZ Tax Solutions (NIT Raipur)",
+    org: "AZ Tax Solutions (Remote)",
     points: [
       "Designed RESTful microservices on AWS Lambda, DynamoDB and S3, improving operational efficiency by 60%.",
       "Engineered DynamoDB + DAX caching for 75% higher throughput at sub-200ms P99 latency.",
